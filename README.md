@@ -1,11 +1,22 @@
-<h1 align="center">Hi, I'm Trusty</h1>
-<h3 align="center">A Malware And Web Developer</h3>
+<div align="center">
+  <h3>Hi, I'm <a href="https://github.com/truusty">Trusty</a></h3>
+  <h5>You can find my Socials here.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=truusty&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+  <p>
+    <a href="https://discord.com/users/364492816639852544"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://instagram.com/truusty.py" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=truusty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=truusty&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=truusty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+  <div style="display: flex; justify-content: center; flex-direction: column;">
+    <div style="width: 200px; text-align: center;">
+      <a href="https://github.com/truusty"> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=truusty&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+      </a>
+    </div>
+   <br>
+  <div class="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truusty&hide=php&theme=dark" />
+      </a>
+    </div>
+  </div>
+</div>
