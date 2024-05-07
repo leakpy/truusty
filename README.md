@@ -3,6 +3,7 @@
   <h5>You can find my Socials here.</h5>
 
   <p>
+    <div class="center">
     <a href="https://discord.com/users/364492816639852544"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://instagram.com/truusty.py" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
